@@ -1,0 +1,8 @@
+Автор: Alexandra
+Проект: my-project
+Созданные файлы:
+my-project/README.txt
+my-project/config.txt
+my-project/data.txt
+Количество файлов: 3
+Дата запуска: Thu Oct  8 20:08:14 MSK 2026
